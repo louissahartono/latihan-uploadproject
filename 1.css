@@ -1,0 +1,25 @@
+fieldset{
+    width: 300px;
+}
+
+legend{
+    color: black;
+}
+
+body{
+padding-left: 12.5cm;
+padding-top: 3cm;
+background-color: lightpink;
+color: purple;
+}
+
+h2{
+    padding-left: 1cm;
+    color: purple;
+}
+
+a{
+    padding-left: 3.5cm;
+    color: lightseagreen;
+}
+

@@ -1,0 +1,26 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 3.5cm;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+.add-button{
+    display: inline-block;
+    margin: 15px 0;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.table-mahasiswa{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.table-mahasiswa th, .table-mahasiswa td{
+    padding: 8px 15px;
+}
+
